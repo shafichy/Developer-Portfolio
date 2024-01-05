@@ -91,6 +91,10 @@ background-position: bottom right;
     margin-top:0;
     margin-bottom: 1.88rem;
 }
+main{
+    max-width:1140px;
+    margin:0 auto;
+}
 .shafi{
     margin-left:1.88rem;
 }
@@ -102,4 +106,17 @@ background-position: bottom right;
     margin:8.13rem 0;
     border-radius: 0.625rem;
     background: #FFF8F3;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.info description{
+    color:#474747;
+}
+.info-title{
+    color:#757575;
 }
